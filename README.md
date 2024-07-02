@@ -63,10 +63,22 @@ Expense Manager is a web application designed to help users manage their expense
 The frontend will run on http://localhost:8501.
 
 # API Endpoints
-GET /expenses: Retrieve all expenses.
-POST /expenses: Create a new expense.
-PUT /expenses/:id: Update an existing expense.
-DELETE /expenses/:id: Delete an expense.
+
+**GET /expenses:** 
+
+Retrieve all expenses.
+
+**POST /expenses:**
+
+Create a new expense.
+
+**PUT /expenses/:id:**
+
+Update an existing expense.
+
+**DELETE /expenses/:id:**
+
+Delete an expense.
 
 # Usage
 ## Create Expense:
